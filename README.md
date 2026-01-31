@@ -11,7 +11,6 @@ The model learns from pre-trained networks to accurately identify dog and cat im
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Machine Learning & Deep Learning
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square)](https://www.tensorflow.org/)
 [![Pillow](https://img.shields.io/badge/Pillow-6A5ACD?style=flat-square)](https://python-pillow.org/)
